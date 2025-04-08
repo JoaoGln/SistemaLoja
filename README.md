@@ -15,8 +15,6 @@ Este é um projeto de terminal que simula uma loja, desenvolvido utilizando Prog
 - Python 3 instalado no computador (recomenda-se versão 3.7 ou superior)
 
 Você pode verificar se tem o Python instalado executando no terminal:
-
-```bash
 python --version
 
 ## ▶️ Como rodar o sistema

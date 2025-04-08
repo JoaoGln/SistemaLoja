@@ -19,7 +19,7 @@ Você pode verificar se tem o Python instalado executando no terminal:
 ```bash
 python --version
 
-▶️ Como rodar o sistema
+## ▶️ Como rodar o sistema
 Clone ou baixe o projeto:
 
 Se estiver usando Git:

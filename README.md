@@ -28,7 +28,7 @@ cd SistemaLoja
 Abra o terminal na pasta do projeto (onde está salvo o arquivo .py com o código).
 
 ### No terminal, digite:
-python loja.py
+python SistemaLoja.py
 
 ### Use o menu interativo
 

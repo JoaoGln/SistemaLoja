@@ -21,10 +21,6 @@ python --version
 Clone ou baixe o projeto:
 
 Se estiver usando Git:
-
-bash
-Copiar
-Editar
 git clone https://github.com/JoaoGln/SistemaLoja.git
 cd SistemaLoja
 [Ou apenas baixe o arquivo .py do projeto.]

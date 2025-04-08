@@ -30,9 +30,9 @@ Abra o terminal na pasta do projeto (onde está salvo o arquivo .py com o códig
 ### No terminal, digite:
 python loja.py
 
-Use o menu interativo
+### Use o menu interativo
 
-O sistema exibirá um menu com opções como:
+#### O sistema exibirá um menu com opções como:
 
 Menu:
 1. Listar produtos

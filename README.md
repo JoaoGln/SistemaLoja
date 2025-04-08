@@ -21,8 +21,8 @@ python --version
 Clone ou baixe o projeto:
 
 Se estiver usando Git:
-git clone https://github.com/JoaoGln/SistemaLoja.git
-cd SistemaLoja
+git clone https://github.com/JoaoGln/SistemaLoja.git \n
+cd SistemaLoja \n
 [Ou apenas baixe o arquivo .py do projeto.]
 
 Abra o terminal na pasta do projeto (onde está salvo o arquivo .py com o código).

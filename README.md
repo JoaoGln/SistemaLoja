@@ -27,12 +27,8 @@ cd SistemaLoja
 
 Abra o terminal na pasta do projeto (onde está salvo o arquivo .py com o código).
 
-## Execute o script:
-
 ## No terminal, digite:
 python loja.py
-Ou:
-python3 loja.py
 
 Use o menu interativo
 

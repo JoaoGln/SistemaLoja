@@ -20,16 +20,16 @@ python --version
 ## ▶️ Como rodar o sistema
 Clone ou baixe o projeto:
 
-Se estiver usando Git:
-git clone https://github.com/JoaoGln/SistemaLoja.git \n
-cd SistemaLoja \n
+## Se estiver usando Git:
+git clone https://github.com/JoaoGln/SistemaLoja.git
+cd SistemaLoja 
 [Ou apenas baixe o arquivo .py do projeto.]
 
 Abra o terminal na pasta do projeto (onde está salvo o arquivo .py com o código).
 
-Execute o script:
+## Execute o script:
 
-No terminal, digite:
+## No terminal, digite:
 python loja.py
 Ou:
 python3 loja.py

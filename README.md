@@ -40,4 +40,5 @@ Menu:
 3. Ver carrinho
 4. Simular pagamento
 5. Sair
+
 Basta digitar o número da opção desejada e seguir as instruções no terminal.

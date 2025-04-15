@@ -66,9 +66,9 @@ class Loja:
 
 
 loja = Loja()
-loja.adicionar_produto(Produto("Teclado", 430.0, 10))
-loja.adicionar_produto(Produto("Smartwatch ", 700.0, 5))
-loja.adicionar_produto(Produto("Controle", 300.0, 20))
+loja.adicionar_produto(Produto("Teclado", 430.0, 16))
+loja.adicionar_produto(Produto("Smartwatch ", 700.0, 9))
+loja.adicionar_produto(Produto("Controle", 300.0, 23))
 
 while True:
     print("\nMenu:\n1. Listar produtos\n2. Adicionar ao carrinho\n3. Ver carrinho\n4. Simular pagamento\n5. Sair")
